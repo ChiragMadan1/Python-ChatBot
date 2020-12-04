@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 <__pycache__>/
 <.mypy_cache>/
+=======
+_pycache_/
+.mypy_cache/
+data.pth
+>>>>>>> add_funcs
